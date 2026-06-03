@@ -61,7 +61,7 @@ Road A Green → Road A Yellow → Road B Green → Road B Yellow → Repeat
 
 ## Waveform
 
-<img src="PASTE_YOUR_GITHUB_IMAGE_URL_HERE" width="1000">
+<img src="https://github.com/SujalPatil1616/Smart-Traffic-Light-Controller/blob/main/Traffic_controller_waveform.png" width="1000">
 
 ## Result
 
